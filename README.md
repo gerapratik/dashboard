@@ -1,4 +1,4 @@
-![Screenshot 2023-07-20 at 4 00 26 PM](https://github.com/gerapratik/dashboard/assets/85092790/04056ffd-41bc-4763-96f6-85ffa0bc8ac9)# Admin dashboard 
+Admin dashboard 
 
 Admin Dashboard application that can be integerated with any ecommerce or product application to analyse any kind of users/product/customers data using interactive sync fusion charts
 Also created a fully functional calendar, a kanban board,
@@ -23,7 +23,6 @@ fully functional calendar with drag drop and delete
 ![Screenshot 2023-07-20 at 4 00 40 PM](https://github.com/gerapratik/dashboard/assets/85092790/f826b595-89ad-43a3-8588-379e05bfa6b4)
 
 
-![Screenshot 2023-07-20 at 4 00 40 PM](https://github.com/gerapratik/dashboard/assets/85092790/458f29de-3c30-4cda-b1c9-4b688c8b3915)
 
 
 EDITOR(NOTES PAGE):
